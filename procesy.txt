@@ -1,0 +1,9 @@
+tProces 1
+0
+15
+tProces 2
+0
+16
+tProces 3
+0
+8

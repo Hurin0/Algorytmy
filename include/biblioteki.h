@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <algorithm>
+#include <windows.h>
+#include <cstdlib>
+#include <ctime>
+#include <vector>
+#include <fstream>
+#include <string>
+#include <unistd.h>

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1580078139 source:d:\katalogcodeblocks\alorytmy_so\main.cpp
+	"biblioteki.h"
+	"proces.h"
+	"fcfs.h"
+	"sjf.h"
+	"lcfs.h"
+
+1580010418 d:\katalogcodeblocks\alorytmy_so\include\biblioteki.h
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<string>
+	<unistd.h>
+
+1580076477 source:d:\katalogcodeblocks\alorytmy_so\src\fcfs.cpp
+	"fcfs.h"
+	"biblioteki.h"
+
+1580076344 d:\katalogcodeblocks\alorytmy_so\include\fcfs.h
+	"proces.h"
+
+1580078657 source:d:\katalogcodeblocks\alorytmy_so\src\proces.cpp
+	"proces.h"
+	"biblioteki.h"
+
+1580022916 d:\katalogcodeblocks\alorytmy_so\include\proces.h
+	"biblioteki.h"
+
+1580079022 source:d:\katalogcodeblocks\alorytmy_so\src\sjf.cpp
+	"sjf.h"
+
+1580076344 d:\katalogcodeblocks\alorytmy_so\include\sjf.h
+	"biblioteki.h"
+	"proces.h"
+
+1580076477 source:d:\katalogcodeblocks\alorytmy_so\src\lcfs.cpp
+	"lcfs.h"
+
+1580076344 d:\katalogcodeblocks\alorytmy_so\include\lcfs.h
+	"biblioteki.h"
+	"proces.h"
+
+1580078139 source:c:\users\dell\desktop\alorytmy_so\main.cpp
+	"biblioteki.h"
+	"proces.h"
+	"fcfs.h"
+	"sjf.h"
+	"lcfs.h"
+
+1580010418 c:\users\dell\desktop\alorytmy_so\include\biblioteki.h
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<string>
+	<unistd.h>
+
+1580022916 c:\users\dell\desktop\alorytmy_so\include\proces.h
+	"biblioteki.h"
+
+1580076344 c:\users\dell\desktop\alorytmy_so\include\fcfs.h
+	"proces.h"
+
+1580076344 c:\users\dell\desktop\alorytmy_so\include\sjf.h
+	"biblioteki.h"
+	"proces.h"
+
+1580076344 c:\users\dell\desktop\alorytmy_so\include\lcfs.h
+	"biblioteki.h"
+	"proces.h"
+
+1580079220 source:c:\users\dell\desktop\alorytmy_so\src\fcfs.cpp
+	"fcfs.h"
+	"biblioteki.h"
+
+1580076477 source:c:\users\dell\desktop\alorytmy_so\src\lcfs.cpp
+	"lcfs.h"
+
+1580078657 source:c:\users\dell\desktop\alorytmy_so\src\proces.cpp
+	"proces.h"
+	"biblioteki.h"
+
+1580079022 source:c:\users\dell\desktop\alorytmy_so\src\sjf.cpp
+	"sjf.h"
+
